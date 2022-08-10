@@ -1,0 +1,15 @@
+C:\Users\Support\source\repos\SchoolOwnership\SchoolOwnership\obj\Debug\net6.0\SchoolOwnership.csproj.AssemblyReference.cache
+C:\Users\Support\source\repos\SchoolOwnership\SchoolOwnership\obj\Debug\net6.0\SchoolOwnership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\source\repos\SchoolOwnership\SchoolOwnership\obj\Debug\net6.0\SchoolOwnership.AssemblyInfoInputs.cache
+C:\Users\Support\source\repos\SchoolOwnership\SchoolOwnership\obj\Debug\net6.0\SchoolOwnership.AssemblyInfo.cs
+C:\Users\Support\source\repos\SchoolOwnership\SchoolOwnership\obj\Debug\net6.0\SchoolOwnership.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\repos\SchoolOwnership\SchoolOwnership\bin\Debug\net6.0\SchoolOwnership.exe
+C:\Users\Support\source\repos\SchoolOwnership\SchoolOwnership\bin\Debug\net6.0\SchoolOwnership.deps.json
+C:\Users\Support\source\repos\SchoolOwnership\SchoolOwnership\bin\Debug\net6.0\SchoolOwnership.runtimeconfig.json
+C:\Users\Support\source\repos\SchoolOwnership\SchoolOwnership\bin\Debug\net6.0\SchoolOwnership.dll
+C:\Users\Support\source\repos\SchoolOwnership\SchoolOwnership\bin\Debug\net6.0\SchoolOwnership.pdb
+C:\Users\Support\source\repos\SchoolOwnership\SchoolOwnership\obj\Debug\net6.0\SchoolOwnership.dll
+C:\Users\Support\source\repos\SchoolOwnership\SchoolOwnership\obj\Debug\net6.0\refint\SchoolOwnership.dll
+C:\Users\Support\source\repos\SchoolOwnership\SchoolOwnership\obj\Debug\net6.0\SchoolOwnership.pdb
+C:\Users\Support\source\repos\SchoolOwnership\SchoolOwnership\obj\Debug\net6.0\SchoolOwnership.genruntimeconfig.cache
+C:\Users\Support\source\repos\SchoolOwnership\SchoolOwnership\obj\Debug\net6.0\ref\SchoolOwnership.dll
