@@ -1,0 +1,15 @@
+C:\Users\Support\source\repos\SortingNumbers\SortingNumbers\bin\Debug\net6.0\SortingNumbers.exe
+C:\Users\Support\source\repos\SortingNumbers\SortingNumbers\bin\Debug\net6.0\SortingNumbers.deps.json
+C:\Users\Support\source\repos\SortingNumbers\SortingNumbers\bin\Debug\net6.0\SortingNumbers.runtimeconfig.json
+C:\Users\Support\source\repos\SortingNumbers\SortingNumbers\bin\Debug\net6.0\SortingNumbers.dll
+C:\Users\Support\source\repos\SortingNumbers\SortingNumbers\bin\Debug\net6.0\SortingNumbers.pdb
+C:\Users\Support\source\repos\SortingNumbers\SortingNumbers\obj\Debug\net6.0\SortingNumbers.csproj.AssemblyReference.cache
+C:\Users\Support\source\repos\SortingNumbers\SortingNumbers\obj\Debug\net6.0\SortingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\source\repos\SortingNumbers\SortingNumbers\obj\Debug\net6.0\SortingNumbers.AssemblyInfoInputs.cache
+C:\Users\Support\source\repos\SortingNumbers\SortingNumbers\obj\Debug\net6.0\SortingNumbers.AssemblyInfo.cs
+C:\Users\Support\source\repos\SortingNumbers\SortingNumbers\obj\Debug\net6.0\SortingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\repos\SortingNumbers\SortingNumbers\obj\Debug\net6.0\SortingNumbers.dll
+C:\Users\Support\source\repos\SortingNumbers\SortingNumbers\obj\Debug\net6.0\refint\SortingNumbers.dll
+C:\Users\Support\source\repos\SortingNumbers\SortingNumbers\obj\Debug\net6.0\SortingNumbers.pdb
+C:\Users\Support\source\repos\SortingNumbers\SortingNumbers\obj\Debug\net6.0\SortingNumbers.genruntimeconfig.cache
+C:\Users\Support\source\repos\SortingNumbers\SortingNumbers\obj\Debug\net6.0\ref\SortingNumbers.dll
