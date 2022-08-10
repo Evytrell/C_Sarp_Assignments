@@ -1,0 +1,15 @@
+C:\Users\Support\source\repos\ArrayAassignment\ArrayAassignment\bin\Debug\net6.0\ArrayAassignment.exe
+C:\Users\Support\source\repos\ArrayAassignment\ArrayAassignment\bin\Debug\net6.0\ArrayAassignment.deps.json
+C:\Users\Support\source\repos\ArrayAassignment\ArrayAassignment\bin\Debug\net6.0\ArrayAassignment.runtimeconfig.json
+C:\Users\Support\source\repos\ArrayAassignment\ArrayAassignment\bin\Debug\net6.0\ArrayAassignment.dll
+C:\Users\Support\source\repos\ArrayAassignment\ArrayAassignment\bin\Debug\net6.0\ArrayAassignment.pdb
+C:\Users\Support\source\repos\ArrayAassignment\ArrayAassignment\obj\Debug\net6.0\ArrayAassignment.csproj.AssemblyReference.cache
+C:\Users\Support\source\repos\ArrayAassignment\ArrayAassignment\obj\Debug\net6.0\ArrayAassignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\source\repos\ArrayAassignment\ArrayAassignment\obj\Debug\net6.0\ArrayAassignment.AssemblyInfoInputs.cache
+C:\Users\Support\source\repos\ArrayAassignment\ArrayAassignment\obj\Debug\net6.0\ArrayAassignment.AssemblyInfo.cs
+C:\Users\Support\source\repos\ArrayAassignment\ArrayAassignment\obj\Debug\net6.0\ArrayAassignment.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\repos\ArrayAassignment\ArrayAassignment\obj\Debug\net6.0\ArrayAassignment.dll
+C:\Users\Support\source\repos\ArrayAassignment\ArrayAassignment\obj\Debug\net6.0\refint\ArrayAassignment.dll
+C:\Users\Support\source\repos\ArrayAassignment\ArrayAassignment\obj\Debug\net6.0\ArrayAassignment.pdb
+C:\Users\Support\source\repos\ArrayAassignment\ArrayAassignment\obj\Debug\net6.0\ArrayAassignment.genruntimeconfig.cache
+C:\Users\Support\source\repos\ArrayAassignment\ArrayAassignment\obj\Debug\net6.0\ref\ArrayAassignment.dll
