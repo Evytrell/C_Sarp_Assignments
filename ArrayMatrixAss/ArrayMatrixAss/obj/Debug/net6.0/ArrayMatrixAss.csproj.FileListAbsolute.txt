@@ -1,0 +1,15 @@
+C:\Users\Support\source\repos\ArrayMatrixAss\ArrayMatrixAss\bin\Debug\net6.0\ArrayMatrixAss.exe
+C:\Users\Support\source\repos\ArrayMatrixAss\ArrayMatrixAss\bin\Debug\net6.0\ArrayMatrixAss.deps.json
+C:\Users\Support\source\repos\ArrayMatrixAss\ArrayMatrixAss\bin\Debug\net6.0\ArrayMatrixAss.runtimeconfig.json
+C:\Users\Support\source\repos\ArrayMatrixAss\ArrayMatrixAss\bin\Debug\net6.0\ArrayMatrixAss.dll
+C:\Users\Support\source\repos\ArrayMatrixAss\ArrayMatrixAss\bin\Debug\net6.0\ArrayMatrixAss.pdb
+C:\Users\Support\source\repos\ArrayMatrixAss\ArrayMatrixAss\obj\Debug\net6.0\ArrayMatrixAss.csproj.AssemblyReference.cache
+C:\Users\Support\source\repos\ArrayMatrixAss\ArrayMatrixAss\obj\Debug\net6.0\ArrayMatrixAss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\source\repos\ArrayMatrixAss\ArrayMatrixAss\obj\Debug\net6.0\ArrayMatrixAss.AssemblyInfoInputs.cache
+C:\Users\Support\source\repos\ArrayMatrixAss\ArrayMatrixAss\obj\Debug\net6.0\ArrayMatrixAss.AssemblyInfo.cs
+C:\Users\Support\source\repos\ArrayMatrixAss\ArrayMatrixAss\obj\Debug\net6.0\ArrayMatrixAss.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\repos\ArrayMatrixAss\ArrayMatrixAss\obj\Debug\net6.0\ArrayMatrixAss.dll
+C:\Users\Support\source\repos\ArrayMatrixAss\ArrayMatrixAss\obj\Debug\net6.0\refint\ArrayMatrixAss.dll
+C:\Users\Support\source\repos\ArrayMatrixAss\ArrayMatrixAss\obj\Debug\net6.0\ArrayMatrixAss.pdb
+C:\Users\Support\source\repos\ArrayMatrixAss\ArrayMatrixAss\obj\Debug\net6.0\ArrayMatrixAss.genruntimeconfig.cache
+C:\Users\Support\source\repos\ArrayMatrixAss\ArrayMatrixAss\obj\Debug\net6.0\ref\ArrayMatrixAss.dll
