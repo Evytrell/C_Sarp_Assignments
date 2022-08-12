@@ -1,0 +1,15 @@
+C:\Users\Support\source\repos\SOLID_Principles_Ass\SOLID_Principles_Ass\bin\Debug\net6.0\SOLID_Principles_Ass.exe
+C:\Users\Support\source\repos\SOLID_Principles_Ass\SOLID_Principles_Ass\bin\Debug\net6.0\SOLID_Principles_Ass.deps.json
+C:\Users\Support\source\repos\SOLID_Principles_Ass\SOLID_Principles_Ass\bin\Debug\net6.0\SOLID_Principles_Ass.runtimeconfig.json
+C:\Users\Support\source\repos\SOLID_Principles_Ass\SOLID_Principles_Ass\bin\Debug\net6.0\SOLID_Principles_Ass.dll
+C:\Users\Support\source\repos\SOLID_Principles_Ass\SOLID_Principles_Ass\bin\Debug\net6.0\SOLID_Principles_Ass.pdb
+C:\Users\Support\source\repos\SOLID_Principles_Ass\SOLID_Principles_Ass\obj\Debug\net6.0\SOLID_Principles_Ass.csproj.AssemblyReference.cache
+C:\Users\Support\source\repos\SOLID_Principles_Ass\SOLID_Principles_Ass\obj\Debug\net6.0\SOLID_Principles_Ass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\source\repos\SOLID_Principles_Ass\SOLID_Principles_Ass\obj\Debug\net6.0\SOLID_Principles_Ass.AssemblyInfoInputs.cache
+C:\Users\Support\source\repos\SOLID_Principles_Ass\SOLID_Principles_Ass\obj\Debug\net6.0\SOLID_Principles_Ass.AssemblyInfo.cs
+C:\Users\Support\source\repos\SOLID_Principles_Ass\SOLID_Principles_Ass\obj\Debug\net6.0\SOLID_Principles_Ass.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\repos\SOLID_Principles_Ass\SOLID_Principles_Ass\obj\Debug\net6.0\SOLID_Principles_Ass.dll
+C:\Users\Support\source\repos\SOLID_Principles_Ass\SOLID_Principles_Ass\obj\Debug\net6.0\refint\SOLID_Principles_Ass.dll
+C:\Users\Support\source\repos\SOLID_Principles_Ass\SOLID_Principles_Ass\obj\Debug\net6.0\SOLID_Principles_Ass.pdb
+C:\Users\Support\source\repos\SOLID_Principles_Ass\SOLID_Principles_Ass\obj\Debug\net6.0\SOLID_Principles_Ass.genruntimeconfig.cache
+C:\Users\Support\source\repos\SOLID_Principles_Ass\SOLID_Principles_Ass\obj\Debug\net6.0\ref\SOLID_Principles_Ass.dll
